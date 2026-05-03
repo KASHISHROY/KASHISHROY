@@ -69,6 +69,8 @@ Technologies I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KASHISHROY&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KASHISHROY&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 🔗 Connect With Me
