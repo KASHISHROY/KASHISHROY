@@ -65,9 +65,9 @@ Technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=KASHISHROY&show_icons=true&theme=tokyonight&hide_border=true)
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=KASHISHROY&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KASHISHROY&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KASHISHROY&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KASHISHROY&theme=tokyonight&hide_border=true)
 
