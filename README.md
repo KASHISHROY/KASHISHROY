@@ -65,9 +65,6 @@ Technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Kashish's GitHub stats](https://readme-stats-git-master-gruvboxs-projects.vercel.app/api?username=KASHISHROY&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KASHISHROY&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KASHISHROY&theme=tokyonight&hide_border=true)
 
