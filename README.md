@@ -55,7 +55,7 @@ Technologies I work with:
 
 - 🥇 1st Prize — Constructor() Hackathon, Tesseract 2026 (GNIT)
 - 🥉 3rd Place — Dev Your Web, Prabuddha 2026
-- 💻 600+ DSA problems solved on LeetCode and Codolio
+- 💻 600+ DSA problems solved on LeetCode ,gfg,codestudio
 - 🎓 Membership Chair — ACM Student Chapter, Techno International Newtown
 - 📄 Research paper in progress — ADHD Prediction using Machine Learning
 - 🇮🇳 Qualified Smart India Hackathon internal rounds 2024 and 2025
