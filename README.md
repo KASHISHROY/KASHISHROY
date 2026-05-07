@@ -30,24 +30,26 @@ Technologies I work with:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
-| Project | Description | Live |
-|--------|-------------|------|
-| **LogWatchAI** | AI-powered self-healing reliability platform with autonomous agents (TriggerAgent, AnalysisAgent, PatchAgent), RAG-based log analysis and auto rollback. 2-time Hackathon Winner 🏆 | [Live](https://logwatchai.vercel.app) |
+| Project | Description | Links |
+|--------|-------------|-------|
+| **MLFoundry -- Agentic AutoML SaaS Platform** | End-to-end Agentic AI powered AutoML SaaS platform with LangGraph + LangChain pipeline, SHAP explainability, one-click model deployment as live REST APIs, Model Marketplace and Razorpay payment integration | [Live](https://ml-foundry.vercel.app) \| [GitHub](https://github.com/KASHISHROY/MLFoundry) |
+| **LogWatchAI** | AI-powered self-healing reliability platform with autonomous agents (TriggerAgent, AnalysisAgent, PatchAgent), RAG-based log analysis and auto rollback. 2-time Hackathon Winner 🏆 | [Live](https://logwatchai.vercel.app) \| [GitHub](https://github.com/kumariluckyraj/logwatch) |
 | **InterviewOS** | Full-stack AI interview simulator with Monaco editor, real-time behavioral tracking, confidence scoring and company-specific modes for Google, Amazon and Microsoft | [Live](https://ai-iv-frontend.vercel.app) |
-| **Alzheimer's Detection** | ResNet50 + Transfer Learning + Grad-CAM to classify brain MRI scans into 4 dementia stages. Deployed on HuggingFace Spaces | [Live](https://kashish0903-alzheimer-predict.hf.space) |
+| **Alzheimer's Detection** | ResNet50 + Transfer Learning + Grad-CAM to classify brain MRI scans into 4 dementia stages. Deployed on HuggingFace Spaces | [Live](https://kashish0903-alzheimer-predict.hf.space) \| [GitHub](https://github.com/KASHISHROY/ALZHEIMER_PREDICT) |
 | **Rural Banking Digital Security Framework** | Secure lightweight digital banking system for rural India with PIN/OTP authentication, fraud detection with anomaly checks and offline to online sync | [GitHub](https://github.com/KASHISHROY/Project-management-app.git) |
 | **AI Customer Call Analyzer** | Whisper AI + RoBERTa pipeline converting call recordings to sentiment insights with Streamlit dashboard visualizing analytics | [GitHub](https://github.com/KASHISHROY/AI-Customer-Support-Call-Intelligence-System) |
-| **OmniML** *(In Development)* | AutoML SaaS platform with 5-agent LangGraph pipeline, SHAP explainability, Celery async background training, WebSocket live updates and Razorpay payment integration | Coming Soon |
 
 ---
 
@@ -55,16 +57,15 @@ Technologies I work with:
 
 - 🥇 1st Prize — Constructor() Hackathon, Tesseract 2026 (GNIT)
 - 🥉 3rd Place — Dev Your Web, Prabuddha 2026
-- 💻 600+ DSA problems solved on LeetCode ,gfg,codestudio
+- 💻 600+ DSA problems solved on LeetCode, GFG and Code Studio
 - 🎓 Membership Chair — ACM Student Chapter, Techno International Newtown
 - 📄 Research paper in progress — ADHD Prediction using Machine Learning
 - 🇮🇳 Qualified Smart India Hackathon internal rounds 2024 and 2025
-- 🏅 Top 30 out of 150+ projects in college internal hackathon with nomination for Smart India Hackathon 2024,2025
+- 🏅 Top 30 out of 150+ projects in college internal hackathon with nomination for Smart India Hackathon 2024 and 2025
 
 ---
 
 ## 📊 GitHub Stats
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KASHISHROY&theme=tokyonight&hide_border=true)
 
